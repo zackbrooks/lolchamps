@@ -1,0 +1,48 @@
+span {
+  display: block;
+  font-size: 20px;
+}
+
+h2 {
+  margin-top: 2.5px;
+}
+
+.containerInfo {
+  margin-top: 10px;
+}
+
+body {
+  text-align: center;
+}
+
+.answer {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+}
+
+.linkContainer {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.instructions {
+  margin: 10px 0;
+}
+
+.devs {
+  margin: 0 0 10px 0;
+}
+
+.api {
+  margin: 20px 0 0px 0;
+  font-size: 0.8em;
+}
+
+/* .categoryHeadings {
+     border-bottom: 1px solid rgba(254,213,33,255);
+   } */
